@@ -19,13 +19,13 @@ h1 {
     text-align: center;
 }
 
-.form-column {
+.columna {
     display: inline-block;
     vertical-align: top;
     width: 45%;
 }
 
-.form-group {
+.grupos {
     margin-bottom: 20px;
 }
 
